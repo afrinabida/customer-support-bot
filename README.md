@@ -20,6 +20,3 @@ This project demonstrates a lightweight support assistant that:
 2. Create a `.env` file with `GEMINI_API_KEY`.
 3. Run the FastAPI backend in `app/main.py` or test the bot interactively using `app/chatbot.py`.
 
-## Notes
-- Do not commit your `.env` file or secret keys.
-- The project is intended as a demonstration of a support bot with bilingual response behavior.
